@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kimyoungjo/static/css/main.05713cf8.chunk.css",
+    "main.js": "/kimyoungjo/static/js/main.b4899c65.chunk.js",
+    "main.js.map": "/kimyoungjo/static/js/main.b4899c65.chunk.js.map",
+    "runtime-main.js": "/kimyoungjo/static/js/runtime-main.08ca8272.js",
+    "runtime-main.js.map": "/kimyoungjo/static/js/runtime-main.08ca8272.js.map",
+    "static/js/2.74afb7b9.chunk.js": "/kimyoungjo/static/js/2.74afb7b9.chunk.js",
+    "static/js/2.74afb7b9.chunk.js.map": "/kimyoungjo/static/js/2.74afb7b9.chunk.js.map",
+    "index.html": "/kimyoungjo/index.html",
+    "precache-manifest.05a4cfc5fd4c7828bf25bd899f90e645.js": "/kimyoungjo/precache-manifest.05a4cfc5fd4c7828bf25bd899f90e645.js",
+    "service-worker.js": "/kimyoungjo/service-worker.js",
+    "static/css/main.05713cf8.chunk.css.map": "/kimyoungjo/static/css/main.05713cf8.chunk.css.map",
+    "static/js/2.74afb7b9.chunk.js.LICENSE.txt": "/kimyoungjo/static/js/2.74afb7b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ca8272.js",
+    "static/js/2.74afb7b9.chunk.js",
+    "static/css/main.05713cf8.chunk.css",
+    "static/js/main.b4899c65.chunk.js"
+  ]
+}
